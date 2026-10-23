@@ -1,0 +1,16 @@
+generated: '2026-10-22'
+method: none
+source:
+- https://zapier.com/apps/nth-round/integrations
+- https://n8n.io/integrations/nth-round/
+- https://composio.dev/toolkits/nth-round
+- https://monid.ai/tools/nth-round
+checked:
+- https://composio.dev/toolkits/nth-round
+- https://monid.ai/tools/nth-round
+- https://n8n.io/integrations/nth-round/
+- https://zapier.com/apps/nth-round/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []

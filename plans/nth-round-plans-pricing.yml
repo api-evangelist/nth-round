@@ -1,0 +1,22 @@
+generated: '2026-10-22'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://www.nthround.com/pricing
+sources:
+- https://www.nthround.com/pricing
+name: Nth Round pricing
+audience: business-product
+pricing_basis: per-seat
+plans:
+- name: Growth
+  price_text: $12,000 /year
+  price: 12000
+  description: For growing private businesses looking to streamline equity operations.
+- name: Success
+  price_text: starting at $21,600 /year
+  price: 21600
+  description: For established businesses looking to improve efficiencies and experiences.
+- name: Custom
+  price_text: Contact Sales
+  description: For industry leaders looking to light up the value of equity and ownership.
+docs: https://www.nthround.com/pricing
